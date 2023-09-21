@@ -1,0 +1,7 @@
+{
+  "name": "fresh-milk-biscuit",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
